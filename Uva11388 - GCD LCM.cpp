@@ -8,7 +8,7 @@ int main()
     while(t--)
     {
         cin>>g>>l;
-       /* multiple=g*l;
+        /*multiple=g*l;
         a=0;
         b=0;
         for(i=g;i*i<=multiple;i++)
